@@ -1,5 +1,5 @@
 # ibmmqtt
-This Docker image is  is an adaptation from ibm-messaging/mq-docker of Arthur Barr <arthur.barr@uk.ibm.com>
+This Docker image is  is an adaptation from [ibm-messaging/mq-docker](https://github.com/ibm-messaging/mq-docker) of Arthur Barr <arthur.barr@uk.ibm.com>
 # Build
 After extracting the code from this repository, you can build an image with the version 8 of MQ using the following command:
 
